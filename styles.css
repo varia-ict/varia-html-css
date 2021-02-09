@@ -1,3 +1,7 @@
 .foobar {
-    color: blue;
+    color: cadetblue;
+}
+
+#foo {
+    background-color: cadetblue;
 }
