@@ -1,0 +1,24 @@
+/* Esimerkki CSS jossa käytetään HTML-elementin class attributtia */
+
+.foo {
+    background-color: purple;
+}
+
+.fancy {
+	background-color: black;
+}
+.cool {
+	color: pink;
+}
+
+
+/* Tee seuraavaksi itse CSS-tyylejä joissa käytät seuraavia CSS-selectoreja:
+
+    1) id
+    2) :hover
+    3) :last-child
+    4) :focus
+    5) :nth-child
+
+   Muista että sinun pitää lisätä tarvitsemasi HTML-elementit css/exercise1.html - tiedostoon!
+/*

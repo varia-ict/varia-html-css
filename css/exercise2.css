@@ -1,0 +1,30 @@
+/* Esimerkki CSS jossa käytetään HTML-elementin class attributtia */
+
+.foo {
+    background-color: purple;
+}
+
+/* Tee seuraavaksi itse CSS-tyylejä joissa käytät seuraavia tyylejä:
+
+    1. margin
+    2. padding
+    3. border
+        a) solid
+        b) dotted
+    4. display
+        a) inline
+        b) block
+        c) flex
+    5. align-items
+    6. width
+        a) px
+        b) %
+        c) vh
+    7. height
+        a) px
+        b) %
+        c) vh
+
+   Muista että sinun pitää lisätä tarvitsemasi HTML-elementit css/exercise2.html - tiedostoon!
+   Ja muista tehdä HTML-elementeistä sellaisia että CSS'n antaman tyylin erottaa niistä!
+/*
