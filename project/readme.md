@@ -30,22 +30,22 @@ Värit:
 
 ## Pisteytys
 
-Responsiivisuus
+Responsiivisuus (14)
 * Verkkosivujen sisältö keskitetty tietokoneen näytöllä (4)
-* Verkkosivut responsiiviset kännykällä ja tabletilla (8)
+* Verkkosivut responsiiviset kännykällä ja tabletilla (10)
 
-Sisältö ja alakohtaiset linkit
+Sisältö ja alakohtaiset linkit (14)
 * Livestriimi toimii (2)
 * Sisältö tekstit oikein paikallaan (3)
 * Sekä teksti ja kuva toimivat linkkinä (1)
 * Kaikki linkit paikallaan ja aukeavat omaan välilehteen (4)
 * Kuvalinkit muotoiltu oikein (4)
 
-Yleiset muotoilut
-* Värit oikein (1)
+Yleiset muotoilut (10)
+* Värit oikein (2)
 * Favicon ja sivun molemmat otsikot paikallaan (2)
 * Yleinen look & feel (6)
 
-Muut
+Muut (10)
 * Takaisin sivun alkuun linkki toimii (1)
-* HTML && CSS tehty selkeästi ja hyvin (6)
+* HTML && CSS tehty selkeästi ja hyvin (9)
