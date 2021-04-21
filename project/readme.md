@@ -19,7 +19,7 @@
 * Verkkosivujen lopussa pitää olla linkki joka vie takaisin sivun alkuun
 * Verkkosivujen sisällön pitää olla keskitetty ruudun keskelle
 * Faviconina käytä media/favicon.ico tiedostoa ja verkkosivun otsikkotekstit löytyy media/texts.txt-tiedostosta
-* Sisältötekstin pitää olla videostriimin ja alakohtaisten linkkien välissä
+* Sisältötekstin pitää olla videostriimin ja alakohtaisten linkkien välissä. Löydät tekstin media/texts.txt-tiedostosta
 * Alakohtaisia linkkejä (kuva sekä teksti) on tietokoneen näytöllä maksimissaan 4 rinnakkain. Pienemmillä näytöillä kuvalinkit ovat päällekkäin. 
 * Katso specs/desktop.png ja specs/mobile.png - kansiosta miltä alakohtaisten kuvalinkkien pitää näyttää tietokoneella ja mobiililaitteella (tabletti + kännykkä).
 * Käytä media/pics-kansiossa olevia kuvia oikeiden alojen linkkeinä ja keskitä kuvat oikein. 
