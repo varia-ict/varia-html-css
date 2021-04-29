@@ -49,3 +49,60 @@ Yleiset muotoilut (10)
 Muut (10)
 * Takaisin sivun alkuun linkki toimii (1)
 * HTML && CSS tehty selkeästi ja hyvin (9)
+
+
+# Project
+
+## Make a website using only HTML and CSS
+
+### The task:
+
+* Due to Corona the Varia Open Doors were held remote. Your task is to make a website for Open Doors event.
+
+
+### Description of the website:
+
+* The main broadcast of the event is an embebbed livestream from YouTube. This should be located at the top of the website. For the purposes of this exercise you can use whatever livestream from YouTube.
+* Under the livestream are links and pictures to all possible fields of study. 
+* Check the pictures located in the specs/-folder  (main_video.png ja text_and_links.png) as an example of what the website should look like.
+
+### Website requirements:
+
+* Website should work responsive on a desktop, tablet and mobile 
+* All links should open to another tab
+* At the bottom of the website there should be link which takes you to the top of the website
+* All content of the website should be centered
+* As a favicon use media/favicon.ico tiedostoa
+* You can find all header texts from media/texts.txt-file
+* The content text should be between the livestream and <<>>. You will find the text content from media/texts.txt-file
+
+* There are maximum of 4 field of study links (both picture and text) side by side on desktop. On smaller screen these links are on top of each other. 
+
+* Check specs/desktop.png ja specs/mobile.png - folder how the field of study links should look like in desktop and mobile. 
+* Use the pictures in media/pics-folder as links and center the pictures correctly.
+
+Colors:
+* Page background: #282c34 
+* Text: #ffffff
+
+## Grading
+
+Responsiveness (14)
+* The content of the website is centered on desktop (4)
+* Website is responsive on mobile and tablet (10)
+
+Content ja alakohtaiset linkit (14)
+* Livestream works (2)
+* Content texts are correct and in correct place (3)
+* Both text and picture work as a link (1)
+* All links are in place and they open to a new tab (4)
+* Links and pictures are properly styles (4)
+
+Overall styles (10)
+* Colors are correct (2)
+* Favicon and both titles are correctly in place (2)
+* Overall look & feel (6)
+
+Other (10)
+* Back to top link works (1)
+* HTML && CSS are well (9)
