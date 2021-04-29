@@ -60,7 +60,7 @@ Muut (10)
 
 * The main broadcast of the event is an embebbed livestream from YouTube. This should be located at the top of the website. For the purposes of this exercise you can use whatever livestream from YouTube.
 * Under the livestream are links and pictures to all possible fields of study. 
-* Check the pictures located in the specs/-folder  (main_video.png ja text_and_links.png) as an example of what the website should look like.
+* Check the pictures located in the specs/-folder (main_video.png ja text_and_links.png) as an example of what the website should look like.
 
 ### Website requirements:
 
@@ -70,10 +70,8 @@ Muut (10)
 * All content of the website should be centered
 * As a favicon use media/favicon.ico tiedostoa
 * You can find all header texts from media/texts.txt-file
-* The content text should be between the livestream and <<>>. You will find the text content from media/texts.txt-file
-
+* The content text should be between the livestream and filed of study specific links. You will find the text content from media/texts.txt-file
 * There are maximum of 4 field of study links (both picture and text) side by side on desktop. On smaller screen these links are on top of each other. 
-
 * Check specs/desktop.png ja specs/mobile.png - folder how the field of study links should look like in desktop and mobile. 
 * Use the pictures in media/pics-folder as links and center the pictures correctly.
 
