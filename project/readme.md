@@ -50,15 +50,11 @@ Muut (10)
 * Takaisin sivun alkuun linkki toimii (1)
 * HTML && CSS tehty selkeästi ja hyvin (9)
 
-
-# Project
-
 ## Make a website using only HTML and CSS
 
 ### The task:
 
 * Due to Corona the Varia Open Doors were held remote. Your task is to make a website for Open Doors event.
-
 
 ### Description of the website:
 
@@ -91,7 +87,7 @@ Responsiveness (14)
 * The content of the website is centered on desktop (4)
 * Website is responsive on mobile and tablet (10)
 
-Content ja alakohtaiset linkit (14)
+Content ja field of study links (14)
 * Livestream works (2)
 * Content texts are correct and in correct place (3)
 * Both text and picture work as a link (1)
@@ -105,4 +101,4 @@ Overall styles (10)
 
 Other (10)
 * Back to top link works (1)
-* HTML && CSS are well (9)
+* HTML && CSS are well written (9)
